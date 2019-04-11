@@ -5,11 +5,12 @@ class School
 
   def initialize(name)
     @name = name
+          @roster = {}
   end
 
   def roster
     def length
-      @roster = {}
+      @roster
     end
   end
 
