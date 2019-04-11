@@ -8,6 +8,8 @@ class School
   end
 
   def roster
+    def length
+    end
   end
 
 end
