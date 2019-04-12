@@ -24,7 +24,7 @@ class School
     @roster.each do |grade|
         @roster[9].sort
     end
-    
+
   end
 
 end
