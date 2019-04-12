@@ -21,7 +21,7 @@ class School
 
   def sort
 
-      @roster
+      @roster[7].sort
 
   end
 
